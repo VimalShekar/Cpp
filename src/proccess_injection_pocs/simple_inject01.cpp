@@ -9,6 +9,7 @@
 #include <Windows.h>
 #include <tlhelp32.h>
 
+// defined in this folder
 #include "ntos.h"
 
 MyNtCreateSection NtCreateSection;
